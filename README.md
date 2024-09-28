@@ -34,3 +34,5 @@ Log in to Salesforce with your credentials.
 Navigate to the CRM Application dashboard to view available laptops.
 Use the booking process to rent out laptops to customers.
 Monitor billing and manage customer interactions through the application interface.
+
+git clone:(https://www.youtube.com/watch?v=eQkwvDWZJYI&t=9s)
