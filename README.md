@@ -18,7 +18,7 @@ To set up this application, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/chavakulaPrasanth/A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
+git clone[ https://github.com/chavakulaPrasanth/A-CRM-APPLICATION-FOR-LAPTOP-RENTALS](https://github.com/rongalinani2004/A-CRM-APPLICATION-FOR-LAPTOP-RENTALS/tree/main)
 Salesforce Setup:
 
 Create a Salesforce account if you don't have one.
